@@ -7,7 +7,7 @@
 
 ## 🔭 About Me
 
-Hey! I’m **Auli**, a passionate learner and aspiring programmer diving deep into the world of code. Currently, I’m honing my skills in **C programming** and navigating the world of **Computer Information Systems (CIS)**. As a student at **<ins>Daffoeil International</ins>**, studying **<ins>Computer Information Systems (CIS)</ins>**, I’m driven by a curiosity for how technology shapes the future.
+Hey! I’m **Auli**, a passionate learner and aspiring programmer diving deep into the world of code. Currently, I’m honing my skills in **C programming** and navigating the world of **Computing & Information Systems (CIS)**. As a student at **<ins>Daffodil International University</ins>**, studying **<ins>computing Information Systems (CIS)</ins>**, I’m driven by a curiosity for how technology shapes the future.
 
 ## ⚡ Skills & Technologies
 
