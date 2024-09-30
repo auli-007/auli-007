@@ -44,6 +44,6 @@ This space is where I document my learning journey, from beginner projects to in
 ### 🔗 Find Me On
 
 - [GitHub](https://github.com/auli-007)
-- Email: your-email@example.com *(replace this with your actual email!)*
+- Email: arubestu007@gmail.com 
 
 ---
